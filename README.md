@@ -9,5 +9,4 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/PooyanJamshidi), [HomePage](http://pooyanjamshidi.github.io/)
 - ⚡ Fun fact: Just Curious About Everything, Run 150 miles/m, Vegeterian (since June 2020!)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=
-pooyanjamshidi&theme=prussian&show_icons=true)](https://github.com/pooyanjamshidi)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=pooyanjamshidi&theme=radical&show_icons=true)](https://github.com/pooyanjamshidi)
