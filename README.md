@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**pooyanjamshidi/pooyanjamshidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a cool project funded by NASA in collboration with CMU/York/Arkansas that enable space landers to utlize AI/ML-enabled autonomy for life exploration missions!
+- 🌱 I’m currently learning the theory of everything!
+- 👯 I’m looking to collaborate on some [topics that I love](https://pooyanjamshidi.github.io/research/).
+- 🤔 I’m looking for help with [anything](https://pooyanjamshidi.github.io/misc/)!
+- 💬 Ask me about Transfer learning!
+- 📫 How to reach me: [Twitter](https://twitter.com/PooyanJamshidi), [HomePage](http://pooyanjamshidi.github.io/)
+- ⚡ Fun fact: Just Curious About Everything, Run 150 miles/m, Vegeterian (since June 2020!)
 
-Here are some ideas to get you started:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=
+pooyanjamshidi&theme=radical&show_icons=true)](https://github.com/
+pooyanjamshidi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Twitter Follow](https://img.shields.io/twitter/follow/PooyanJamshidi?style=social)
