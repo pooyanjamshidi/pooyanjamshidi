@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Twitter Follow](https://img.shields.io/twitter/follow/PooyanJamshidi?style=social)
 
 - 🔭 I’m currently working on a cool project funded by NASA in collboration with CMU/York/Arkansas that enable space landers to utlize AI/ML-enabled autonomy for life exploration missions!
 - 🌱 I’m currently learning the theory of everything!
@@ -9,7 +10,5 @@
 - ⚡ Fun fact: Just Curious About Everything, Run 150 miles/m, Vegeterian (since June 2020!)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=
-pooyanjamshidi&theme=radical&show_icons=true)](https://github.com/
+pooyanjamshidi&theme=prussian&show_icons=true)](https://github.com/
 pooyanjamshidi)
-
-![Twitter Follow](https://img.shields.io/twitter/follow/PooyanJamshidi?style=social)
