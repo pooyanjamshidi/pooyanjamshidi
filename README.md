@@ -10,5 +10,4 @@
 - ⚡ Fun fact: Just Curious About Everything, Run 150 miles/m, Vegeterian (since June 2020!)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=
-pooyanjamshidi&theme=prussian&show_icons=true)](https://github.com/
-pooyanjamshidi)
+pooyanjamshidi&theme=prussian&show_icons=true)](https://github.com/pooyanjamshidi)
