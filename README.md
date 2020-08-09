@@ -3,9 +3,10 @@
 
 - 🔭 I’m currently leading a project funded by NASA (UofSC/CMU/York/Arkansas) on SpaceLanders+Autonomy+AI/ML!
 - 🌱 I’m currently learning the theory of everything!
-- 👯 I’m looking to collaborate on some [topics that I love](https://pooyanjamshidi.github.io/research/).
-- 🤔 I’m looking for help with [anything](https://pooyanjamshidi.github.io/misc/)!
-- 💬 Ask me about Transfer learning!
+- 🏫 I'm regularly teaching [CSCE 585: MLSystems](https://pooyanjamshidi.github.io/mls/) and [CSCE 580: AI](https://pooyanjamshidi.github.io/csce580/) at UofSC.
+- 👯 I’m looking to collaborate on [topics that I love](https://pooyanjamshidi.github.io/research/).
+- 🤔 I’m looking to help with [anything](https://pooyanjamshidi.github.io/misc/)!
+- 💬 Ask me about Transfer Learning!
 - 📫 How to reach me: [Twitter](https://twitter.com/PooyanJamshidi), [HomePage](http://pooyanjamshidi.github.io/)
 - ⚡ Fun fact: Just Curious About Everything, Run ~150 miles/month, Vegeterian (since June 2020!)
 
