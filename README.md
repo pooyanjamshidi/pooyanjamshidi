@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Twitter Follow](https://img.shields.io/twitter/follow/PooyanJamshidi?style=social)
 
-- 🔭 I’m currently working on a cool project funded by NASA in collboration with CMU/York/Arkansas that enable space landers to utlize AI/ML-enabled autonomy for life exploration missions!
+- 🔭 I’m currently leading a cool project funded by NASA in collboration with CMU/York/Arkansas: SpaceLanders+Autonomy+AI/ML!
 - 🌱 I’m currently learning the theory of everything!
 - 👯 I’m looking to collaborate on some [topics that I love](https://pooyanjamshidi.github.io/research/).
 - 🤔 I’m looking for help with [anything](https://pooyanjamshidi.github.io/misc/)!
