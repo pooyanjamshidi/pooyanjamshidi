@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![Twitter Follow](https://img.shields.io/twitter/follow/PooyanJamshidi?style=social)
 
+- :google: I will be working with Google AdsAI team on Causal Representation Learning and Self-Supervised Learning over Summer 2021! 
 - 🔭 I’m currently leading a project funded by [NASA](https://speakerdeck.com/pjamshidi/raspberry-si-resource-adaptive-software-purpose-built-for-extraordinary-robotic-research-yields-science-instruments) (UofSC/CMU/York/Arkansas) on SpaceLanders+Autonomy+AI/ML!
 - 🌱 I’m currently learning the theory of everything!
 - 🏫 I'm regularly teaching [CSCE 585: MLSystems](https://pooyanjamshidi.github.io/mls/), [CSCE 580: AI](https://pooyanjamshidi.github.io/csce580/), and [CSCE 212: Computer Architecture](https://pooyanjamshidi.github.io/csce212/) at UofSC.
