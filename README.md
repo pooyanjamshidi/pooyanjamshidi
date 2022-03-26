@@ -9,6 +9,6 @@
 - 🤔 I’m looking to help with [anything](https://pooyanjamshidi.github.io/misc/)!
 - 💬 Ask me about Transfer Learning!
 - 📫 How to reach me: [Twitter](https://twitter.com/PooyanJamshidi), [HomePage](http://pooyanjamshidi.github.io/)
-- ⚡ Fun fact: Just Curious About Everything, Run ~150 miles/month, Vegeterian (since June 2020!)
+- ⚡ Fun fact: Just Curious About Everything, Run ~150 miles/month (Doing 🥊 & 🧘‍♂️ since 2021), Vegeterian (since June 2020, stopped being in June 2021!)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=pooyanjamshidi&theme=cobalt&show_icons=true)](https://github.com/pooyanjamshidi)
