@@ -16,6 +16,10 @@
 - 💬 Ask me about Transfer Learning!
 - 🧑‍🎓 I am always looking for highly motivated students to engage in [AI/ML/Systems research]((https://pooyanjamshidi.github.io/research/)).
 - 📫 How to reach me: [Twitter](https://twitter.com/PooyanJamshidi), [HomePage](http://pooyanjamshidi.github.io/)
-- ⚡ Fun fact: Just Curious About Everything, Run ~150 miles/month (🥊 & 🧘‍♂️ since 2021), Vegetarian (June 2020 - June 2021!)
+- ⚡ Fun facts: 
+    - Just curious about everything :) 
+    - I am currently doing these activities on a regular basis: 🥊 & 🧘‍♂️ & 🏋️ & ⚽ 
+    - Vegetarian (June 2020 - June 2021!)
+    - I love music and big fan of [Dua Lipa](https://podcasts.apple.com/us/podcast/dua-lipa-at-your-service/id1608224209), can you believe I went to two of her recent future nostalgia concert?!!
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=pooyanjamshidi&theme=cobalt&show_icons=true)](https://github.com/pooyanjamshidi)
