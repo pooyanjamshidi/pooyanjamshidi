@@ -20,6 +20,6 @@
     - Just curious about everything :) 
     - I am currently doing these activities on a regular basis: 🥊 & 🧘‍♂️ & 🏋️ & ⚽ 
     - Vegetarian (June 2020 - June 2021!)
-    - I love music and big fan of [Dua Lipa](https://podcasts.apple.com/us/podcast/dua-lipa-at-your-service/id1608224209), can you believe I went to two of her recent future nostalgia concert?!!
+    - I love music and a big fan of [Dua Lipa](https://podcasts.apple.com/us/podcast/dua-lipa-at-your-service/id1608224209); can you believe I went to two of her recent future nostalgia concert?!!
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=pooyanjamshidi&theme=cobalt&show_icons=true)](https://github.com/pooyanjamshidi)
