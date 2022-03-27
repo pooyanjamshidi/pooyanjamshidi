@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on [topics that I love](https://pooyanjamshidi.github.io/research/).
 - 🤔 I’m looking to help with [anything](https://pooyanjamshidi.github.io/misc/)!
 - 💬 Ask me about Transfer Learning!
-- 🧑‍🎓 I am always looking for highly motivated students to engage in I/ML/Systems research.
+- 🧑‍🎓 I am always looking for highly motivated students to engage in [AI/ML/Systems research]((https://pooyanjamshidi.github.io/research/)).
 - 📫 How to reach me: [Twitter](https://twitter.com/PooyanJamshidi), [HomePage](http://pooyanjamshidi.github.io/)
 - ⚡ Fun fact: Just Curious About Everything, Run ~150 miles/month (🥊 & 🧘‍♂️ since 2021), Vegetarian (June 2020 - June 2021!)
 
