@@ -2,7 +2,9 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/PooyanJamshidi?style=social)
 
 - 😀 I am an assistant prof. at UofSC and an ML/AI researcher at Google! 
-- 🔭 I’m currently leading two large projects: (i) [NASA RASPBERRY-SI](https://speakerdeck.com/pjamshidi/raspberry-si-resource-adaptive-software-purpose-built-for-extraordinary-robotic-research-yields-science-instruments) (UofSC/CMU/York/Arkansas) on AI in Space & (ii) [NSF UNICORN](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107463) (UofSC/Columbia/CMU) on Causal AI for Systems!
+- 🔭 I’m currently leading two large projects: 
+    - [NASA RASPBERRY-SI](https://nasa-raspberry-si.github.io/raspberry-si/) (UofSC/CMU/York/Arkansas) on AI in Space.
+    - [NSF UNICORN](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107463) (UofSC/Columbia/CMU) on Causal AI for Systems.
 - 🌱 I’m currently learning the theory of everything! 
 - 🤖 I'm, in particular, interested in Causal AI, Representation Learning, ML Robustness, and Autonomous Robots!
 - 🏫 I'm regularly teaching [CSCE 585: MLSystems](https://pooyanjamshidi.github.io/mls/), [CSCE 580: AI](https://pooyanjamshidi.github.io/csce580/), and [CSCE 212: Computer Architecture](https://pooyanjamshidi.github.io/csce212/) at UofSC.
