@@ -7,10 +7,14 @@
     - [NSF UNICORN](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107463) (UofSC/Columbia/CMU) on Causal AI for Systems.
 - 🌱 I’m currently learning the theory of everything! 
 - 🤖 I'm, in particular, interested in Causal AI, Representation Learning, ML Robustness, and Autonomous Robots!
-- 🏫 I'm regularly teaching [CSCE 585: MLSystems](https://pooyanjamshidi.github.io/mls/), [CSCE 580: AI](https://pooyanjamshidi.github.io/csce580/), and [CSCE 212: Computer Architecture](https://pooyanjamshidi.github.io/csce212/) at UofSC.
+- 🏫 I'm regularly teaching the following courses at UofSC:
+    - [CSCE 585: MLSystems](https://pooyanjamshidi.github.io/mls/) 
+    - [CSCE 580: AI](https://pooyanjamshidi.github.io/csce580/) 
+    - [CSCE 212: Computer Architecture](https://pooyanjamshidi.github.io/csce212/)
 - 👯 I’m looking to collaborate on [topics that I love](https://pooyanjamshidi.github.io/research/).
 - 🤔 I’m looking to help with [anything](https://pooyanjamshidi.github.io/misc/)!
 - 💬 Ask me about Transfer Learning!
+- 🧑‍🎓 I am always looking for highly motivated students to engage in I/ML/Systems research.
 - 📫 How to reach me: [Twitter](https://twitter.com/PooyanJamshidi), [HomePage](http://pooyanjamshidi.github.io/)
 - ⚡ Fun fact: Just Curious About Everything, Run ~150 miles/month (🥊 & 🧘‍♂️ since 2021), Vegetarian (June 2020 - June 2021!)
 
