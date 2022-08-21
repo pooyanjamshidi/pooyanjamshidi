@@ -12,14 +12,14 @@
     - [CSCE 580: AI](https://pooyanjamshidi.github.io/csce580/) 
     - [CSCE 212: Computer Architecture](https://pooyanjamshidi.github.io/csce212/)
 - 👯 I’m looking to collaborate on [topics that I love](https://pooyanjamshidi.github.io/research/).
-- 🤔 I’m looking to help with [anything](https://pooyanjamshidi.github.io/misc/)!
-- 💬 Ask me about Transfer Learning!
+- 🤔 If you are a researcher (undergrad, grad, postdoc, early faculty), if I could [help](https://pooyanjamshidi.github.io/misc/), please let me know.
+- 💬 Ask me about [research](https://pooyanjamshidi.github.io/research/)!
 - 🧑‍🎓 I am always looking for highly motivated students to engage in [AI/ML/Systems research]((https://pooyanjamshidi.github.io/research/)).
 - 📫 How to reach me: [Twitter](https://twitter.com/PooyanJamshidi), [HomePage](http://pooyanjamshidi.github.io/)
 - ⚡ Fun facts: 
     - Just curious about everything :) 
     - I am currently doing these activities on a regular basis: 🥊 & 🧘‍♂️ & 🏋️ & ⚽ 
-    - Vegetarian (June 2020 - June 2021!)
-    - I love music and a big fan of [Dua Lipa](https://podcasts.apple.com/us/podcast/dua-lipa-at-your-service/id1608224209); can you believe I went to two of her recent future nostalgia concert?!!
+    - Been Vegetarian once (June 2020 - June 2021!)
+    - I love music and a big fan of [Dua Lipa](https://podcasts.apple.com/us/podcast/dua-lipa-at-your-service/id1608224209); can you believe I went to three of her recent future nostalgia concert?!!
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=pooyanjamshidi&theme=cobalt&show_icons=true)](https://github.com/pooyanjamshidi)
