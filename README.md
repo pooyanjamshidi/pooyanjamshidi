@@ -1,7 +1,8 @@
 ### Hi there 👋
 ![Twitter Follow](https://img.shields.io/twitter/follow/PooyanJamshidi?style=social)
 
-- 😀 I am an assistant prof. at UofSC and an ML/AI researcher at Google! 
+- 😀 I am an assistant prof. at the University of South Carolina.
+- 😀 I worked in the industry, most recently, I was a visitng researcher at Google!
 - 🔭 I’m currently leading two large projects: 
     - [NASA RASPBERRY-SI](https://nasa-raspberry-si.github.io/raspberry-si/) (UofSC/CMU/York/Arkansas) on AI in Space.
     - [NSF UNICORN](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107463) (UofSC/Columbia/CMU) on Causal AI for Systems.
